@@ -11,8 +11,9 @@ We are going to get our datasets from kaggle.
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. They provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing!
 # Cleaning data
-![image](https://user-images.githubusercontent.com/99052999/153984975-8f71d908-d56a-48a3-aaeb-943139dea095.png)
-![image](https://user-images.githubusercontent.com/99052999/153984985-06304f5c-ae76-4cc2-bacc-ebd8173ea140.png)
+![image](https://user-images.githubusercontent.com/99052999/153985326-cbd3969e-bfa9-4146-9a84-b039ccdcfab5.png)
+![image](https://user-images.githubusercontent.com/99052999/153985333-aeeeeaa2-925b-47f7-9ea6-88701a58f67d.png)
+
 # Before
 ![image](https://user-images.githubusercontent.com/99052999/153985049-48920367-0f2d-4c8e-b566-34ca563b06bf.png)
 # After
