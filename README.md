@@ -15,9 +15,9 @@ This is a dataset for binary sentiment classification containing substantially m
 ![image](https://user-images.githubusercontent.com/99052999/153985333-aeeeeaa2-925b-47f7-9ea6-88701a58f67d.png)
 
 # Before
-![image](https://user-images.githubusercontent.com/99052999/153985049-48920367-0f2d-4c8e-b566-34ca563b06bf.png)
+![image](https://user-images.githubusercontent.com/99052999/153985392-5a7f7d3d-8c99-48bc-a84f-a917afa80e4e.png)
 # After
-![image](https://user-images.githubusercontent.com/99052999/153985066-6de7ea14-90ad-4e9b-a00d-d643a01fbcc1.png)
+![image](https://user-images.githubusercontent.com/99052999/153985400-d12fb171-9a55-477f-b2b2-2c3e783139c9.png)
 # Model Building 
 We used Linear Support Vector Classifier to classify our data
 The objective of a Linear SVC (Support Vector Classifier) is to fit to the data you provide, returning a "best fit" hyperplane that divides, or categorizes, your data. From there, after getting the hyperplane, you can then feed some features to your classifier to see what the "predicted" 
