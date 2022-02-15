@@ -24,6 +24,19 @@ The objective of a Linear SVC (Support Vector Classifier) is to fit to the data 
 ![image](https://user-images.githubusercontent.com/99052999/153985248-09792c6d-cc8c-4735-a400-6d34a581f035.png)
 # Mode evaluation
 ![image](https://user-images.githubusercontent.com/99052999/153985453-c6975bc6-2d04-401e-bf36-5de7fd0b806d.png)
-![image](https://user-images.githubusercontent.com/99052999/153985510-d6bbcf76-65d0-44c7-85b0-52eb4def4d68.png)
+ Code: from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+Since we used 33% of data for prediction and based on confusion matrix:
+We concluded that:
+---The classifier made a total of 16863 predictions ( 16863 comments )
+---There are two possible predicted classes: "positive" "Negative"
+---Out of those 16863 comments, the classifer predicted "positive" 8347 times, and "negative" 8516 times
+--- In reality, 8181 comments are positive, and 8182 comments are negative. 
+# Suggestions/insights 
+***We believe this model will help them save money, time to determine which comment is positive or negative. 
+***Since IMDB has paid membership for professionals, this model will help them increase the membership because professionals will save more time to figure out how many sentiment is positive or negative. 
+***This model will improve their AI system, help them to grow their business advertising, will expand  more products and services. 
+
+
 
 
