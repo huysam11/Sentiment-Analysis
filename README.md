@@ -1,5 +1,5 @@
 # Procedure 
-We will have a  3 step process  Data Pre-Processing, Model Building and Model Evaluation
+We will have a  3 step process  Data Pre-Processing, Model Building and Model Evaluation  
 We will use IMDB dataset to build bag of word model
 First, we will import the training dataset
 We will explore the data analysis 
