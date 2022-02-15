@@ -21,5 +21,9 @@ This is a dataset for binary sentiment classification containing substantially m
 # Model Building 
 We used Linear Support Vector Classifier to classify our data
 The objective of a Linear SVC (Support Vector Classifier) is to fit to the data you provide, returning a "best fit" hyperplane that divides, or categorizes, your data. From there, after getting the hyperplane, you can then feed some features to your classifier to see what the "predicted" 
-
 ![image](https://user-images.githubusercontent.com/99052999/153985248-09792c6d-cc8c-4735-a400-6d34a581f035.png)
+# Mode evaluation
+![image](https://user-images.githubusercontent.com/99052999/153985453-c6975bc6-2d04-401e-bf36-5de7fd0b806d.png)
+![image](https://user-images.githubusercontent.com/99052999/153985510-d6bbcf76-65d0-44c7-85b0-52eb4def4d68.png)
+
+
